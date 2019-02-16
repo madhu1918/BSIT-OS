@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Unix or Linux command line",
+		"activityType":"video",
+		"videoURL":"/Unix or Linux command line.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Unix or Linux command line"
+		}
+		]
+	}
+]

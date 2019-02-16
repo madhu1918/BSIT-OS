@@ -3,7 +3,7 @@
 	"activityType": "quiz",
 	"quizDescription": [
 		{
-			"text": "<a href=\"https://en.wikipedia.org/wiki/Embedded_operating_system\">Networking controls for Unix based operating system</a> "
+			"text": "<a href=\"https://help.ubuntu.com/lts/serverguide/network-configuration.html.en\">Networking controls for Unix based operating system</a> "
 		}
 	],
 	"questions": [{

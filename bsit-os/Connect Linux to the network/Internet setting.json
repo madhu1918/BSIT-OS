@@ -1,0 +1,13 @@
+[{
+	"title": "Internet setting",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://help.ubuntu.com/stable/ubuntu-help/net-manual.html.en\">Internet setting Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Internet setting"
+	}]
+}]
