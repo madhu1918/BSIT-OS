@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Windows command line",
+		"activityType":"video",
+		"videoURL":"/Windows command line.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Windows command line"
+		}
+		]
+	}
+]

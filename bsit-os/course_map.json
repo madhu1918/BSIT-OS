@@ -103,6 +103,9 @@
         },
         {
             "activities": [
+                "Video on Introduction to Unix based operating system",
+                "Video on Various Distribututions",
+                "Video on Hardware requirement"
             ],
             "learningObjectives": [],
             "overview": [],
@@ -110,6 +113,11 @@
         },
         {
             "activities": [
+                "Video on Linux Distro",
+                "Video on Install open source linux operating system",
+                "Linux configuration",
+                "Security",
+                "User account controls"
             ],
             "learningObjectives": [],
             "overview": [],
@@ -117,6 +125,8 @@
         },
         {
             "activities": [
+                "Networking controls for Unix based operating system",
+                "Internet setting"
             ],
             "learningObjectives": [],
             "overview": [],
@@ -124,6 +134,7 @@
         },
         {
             "activities": [
+                "Video on Unix or Linux command line"
             ],
             "learningObjectives": [],
             "overview": [],

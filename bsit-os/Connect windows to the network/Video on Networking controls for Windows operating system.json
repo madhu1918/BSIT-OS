@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Networking controls for Windows operating system",
+		"activityType":"video",
+		"videoURL":"/Networking controls for Windows operating system.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Networking controls for Windows operating system"
+		}
+		]
+	}
+]
