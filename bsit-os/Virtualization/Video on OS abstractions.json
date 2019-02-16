@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on OS abstractions",
+		"activityType":"video",
+		"videoURL":"/OS abstractions.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on OS abstractions"
+		}
+		]
+	}
+]

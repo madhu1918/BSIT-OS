@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Variety and Versions",
+		"activityType":"video",
+		"videoURL":"/Variety and Versions.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Variety and Versions"
+		}
+		]
+	}
+]

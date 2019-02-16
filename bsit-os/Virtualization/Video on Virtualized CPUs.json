@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Virtualized CPUs",
+		"activityType":"video",
+		"videoURL":"/Virtualized CPUs.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Virtualized CPUs"
+		}
+		]
+	}
+]

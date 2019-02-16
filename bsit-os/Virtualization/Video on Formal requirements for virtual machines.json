@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Formal requirements for virtual machines",
+		"activityType":"video",
+		"videoURL":"/Formal requirements for virtual machines.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Formal requirements for virtual machines"
+		}
+		]
+	}
+]

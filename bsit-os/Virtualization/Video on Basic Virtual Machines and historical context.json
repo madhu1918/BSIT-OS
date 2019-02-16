@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Basic Virtual Machines and historical context",
+		"activityType":"video",
+		"videoURL":"/Basic Virtual Machines and historical context.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Basic Virtual Machines and historical context"
+		}
+		]
+	}
+]

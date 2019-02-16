@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on General resource virtualization: virtual memory",
+		"activityType":"video",
+		"videoURL":"/General resource virtualization virtual memory.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on General resource virtualization: virtual memory"
+		}
+		]
+	}
+]

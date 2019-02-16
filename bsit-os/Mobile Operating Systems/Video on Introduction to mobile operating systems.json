@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Introduction to mobile operating systems",
+		"activityType":"video",
+		"videoURL":"/Introduction to mobile operating systems.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Introduction to mobile operating systems"
+		}
+		]
+	}
+]

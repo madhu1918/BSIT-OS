@@ -152,6 +152,11 @@
         },
         {
             "activities": [
+                "Video on General resource virtualization virtual memory",
+                "Video on Virtualized CPUs",
+                "Video on OS abstractions",
+                "Video on Basic Virtual Machines and historical context",
+                "Video on Formal requirements for virtual machines"
             ],
             "learningObjectives": [],
             "overview": [],
@@ -159,6 +164,10 @@
         },
         {
             "activities": [
+                "Virtualization in practice Installation",
+                "Install OS on the virtual machine",
+                "Video on configuration",
+                "Video on troubleshoot"
             ],
             "learningObjectives": [],
             "overview": [],
@@ -166,6 +175,7 @@
         },
         {
             "activities": [
+                "Video on System Access Threats (Intruders, software piracy and Malicious Software)"
             ],
             "learningObjectives": [],
             "overview": [],
