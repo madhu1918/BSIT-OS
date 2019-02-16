@@ -1,0 +1,13 @@
+[{
+	"title": "Patching",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://docs.microsoft.com/en-us/windows/desktop/msi/patching\">Patching</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Patching"
+	}]
+}]

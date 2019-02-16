@@ -1,0 +1,13 @@
+[{
+	"title": "Firewall Installation",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://en.wikipedia.org/wiki/Firewall_(computing)\">Firewall Installation Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Firewall Installation"
+	}]
+}]

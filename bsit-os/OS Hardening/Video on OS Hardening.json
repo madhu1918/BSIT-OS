@@ -1,15 +1,15 @@
 [
 	{
-		"title":"Video on troubleshoot",
+		"title":"Video on OS Hardening",
 		"activityType":"video",
-		"videoURL":"/troubleshoot.mp4"
+		"videoURL":"/OS Hardening.mp4"
 	},
 	{
 		"activityType":"quiz",
 		"questions": [
 		{
 			"questionType":"summarize",
-			"questionText":"Summarize the Video on troubleshoot"
+			"questionText":"Summarize the Video on OS Hardening"
 		}
 		]
 	}

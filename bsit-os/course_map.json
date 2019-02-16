@@ -183,6 +183,10 @@
         },
         {
             "activities": [
+                "Firewall Installation",
+                "Firewall Configuration",
+                "Anti-virus",
+                "Installing anti-virus and checking the automatic update setting"
             ],
             "learningObjectives": [],
             "overview": [],
@@ -190,6 +194,9 @@
         },
         {
             "activities": [
+                "Video on File system access control",
+                "Video on User configuration",
+                "Authentication"
             ],
             "learningObjectives": [],
             "overview": [],
@@ -197,6 +204,9 @@
         },
         {
             "activities": [
+                "Video on OS Hardening",
+                "Video on Initial setup",
+                "Patching"
             ],
             "learningObjectives": [],
             "overview": [],
@@ -204,6 +214,18 @@
         },
         {
             "activities": [
+                "Video on Preventive measures for maintenance",
+                "Video on Basic troubleshooting techniques",
+                "Registry restore setting",
+                "Self-protection setting",
+                "Password protection setting",
+                "Reports setting",
+                "Virus statistics setting",
+                "Remote system setting",
+                "Hijack restore setting",
+                "Track cleaner setting",
+                "Launch antimalware setting",
+                "USB drive protection setting"
             ],
             "learningObjectives": [],
             "overview": [],

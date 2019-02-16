@@ -1,0 +1,13 @@
+[{
+	"title": "Firewall Configuration",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://simple.wikipedia.org/wiki/Firewall_(networking)\">Firewall Configuration Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Firewall Configuration"
+	}]
+}]

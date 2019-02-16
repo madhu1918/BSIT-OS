@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on System Access Threats (Intruders, software piracy and Malicious Software)",
+		"activityType":"video",
+		"videoURL":"/Threats, Vulnerabilities, and Controls.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on System Access Threats (Intruders, software piracy and Malicious Software)"
+		}
+		]
+	}
+]

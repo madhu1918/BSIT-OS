@@ -1,15 +1,15 @@
 [
 	{
-		"title":"Video on troubleshoot",
+		"title":"Video on Initial setup",
 		"activityType":"video",
-		"videoURL":"/troubleshoot.mp4"
+		"videoURL":"/Initial setup.mp4"
 	},
 	{
 		"activityType":"quiz",
 		"questions": [
 		{
 			"questionType":"summarize",
-			"questionText":"Summarize the Video on troubleshoot"
+			"questionText":"Summarize the Video on Initial setup"
 		}
 		]
 	}

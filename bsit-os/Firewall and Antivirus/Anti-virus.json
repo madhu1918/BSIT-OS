@@ -1,0 +1,13 @@
+[{
+	"title": "Anti-virus",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://en.wikipedia.org/wiki/Antivirus_software\">Anti-virus Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Anti-virus"
+	}]
+}]
