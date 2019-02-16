@@ -1,0 +1,13 @@
+[{
+	"title": "Security",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://learncodeonline.in/linux-secure-operating-systems/\">Security Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Security"
+	}]
+}]

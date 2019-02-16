@@ -1,0 +1,13 @@
+[{
+	"title": "Networking controls for Unix based operating system",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://en.wikipedia.org/wiki/Embedded_operating_system\">Networking controls for Unix based operating system</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Networking controls for Unix based operating system"
+	}]
+}]

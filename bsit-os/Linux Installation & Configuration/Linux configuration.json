@@ -1,0 +1,13 @@
+[{
+	"title": "Linux configuration",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://help.ubuntu.com/lts/serverguide/dns-configuration.html.en\">Linux configuration Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Linux configuration"
+	}]
+}]

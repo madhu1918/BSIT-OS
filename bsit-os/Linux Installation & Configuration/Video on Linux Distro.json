@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Linux Distro",
+		"activityType":"video",
+		"videoURL":"/What is Linux.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Linux Distro"
+		}
+		]
+	}
+]

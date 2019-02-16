@@ -1,0 +1,13 @@
+[{
+	"title": "User account controls",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://help.ubuntu.com/stable/ubuntu-help/user-accounts.html.en\">User account controls Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the User account controls"
+	}]
+}]
