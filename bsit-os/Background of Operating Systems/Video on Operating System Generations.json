@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Operating System Generations",
+		"activityType":"video",
+		"videoURL":"/Types of Operating Systems generations.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Operating System Generations"
+		}
+		]
+	}
+]

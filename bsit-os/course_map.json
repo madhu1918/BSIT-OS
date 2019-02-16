@@ -1,0 +1,180 @@
+{
+    "activities": [],
+    "learningObjectives": [
+    ],
+    "overview": [
+    ],
+    "title": "Operating Systems",
+    "units": [
+            {
+            "activities": [
+                "Video on Hardware and software",
+                "Video on Input and Output devices",
+                "Video on Operating System Definition",
+                "Video on History of operating system",
+                "Video on Operating System Generations"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Background of Operating Systems"
+        },
+        {
+            "activities": [
+                "Video on Mainframe OS",
+                "Video on Server OS",
+                "Multiprocessor OS",
+                "Personal computer OS",
+                "Handheld computer OS",
+                "Embedded OS",
+                "Real-Time OS"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Types of OS"
+        },
+        {
+            "activities": [
+                "Video on Process concept",
+                "Video on Inter-process communication",
+                "Video on Process schedulers"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Process Management"
+        },
+        {
+            "activities": [
+                "Using process explorer tool",
+                "Show the number of process",
+                "PID",
+                "Services executing in the system"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Process Tools"
+        },
+        {
+            "activities": [
+                "Video on Memory management",
+                "Video on Paging",
+                "Video on Segmentation",
+                "Video on Virtual memory concept"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Memory Management"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Windows Operating System"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Windows Operating System"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Windows Installation & configuration"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Connect windows to the network"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Unix based Operating System"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Linux Installation & Configuration"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Connect Linux to the network"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Linux command line"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Mobile Operating Systems"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Virtualization"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Virtualization Handson"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "OS security"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Firewall and Antivirus"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Authentication and Authorization"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "OS Hardening"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Maintenance Procedures and Troubleshooting"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Operating System Definition",
+		"activityType":"video",
+		"videoURL":"/Operating System definition.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Operating System Definition"
+		}
+		]
+	}
+]

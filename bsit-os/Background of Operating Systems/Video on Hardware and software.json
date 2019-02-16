@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Hardware and software",
+		"activityType":"video",
+		"videoURL":"/Hardware and software.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Hardware and software"
+		}
+		]
+	}
+]
