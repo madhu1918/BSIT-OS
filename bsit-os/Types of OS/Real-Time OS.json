@@ -1,0 +1,13 @@
+[{
+	"title": "Real-Time OS",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://en.wikipedia.org/wiki/Real-time_operating_system\">Multiprocessor OS Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Real-Time OS"
+	}]
+}]

@@ -1,0 +1,13 @@
+[{
+	"title": "Handheld computer OS",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://en.wikipedia.org/wiki/Handheld_PC\">Multiprocessor OS Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Handheld computer OS"
+	}]
+}]

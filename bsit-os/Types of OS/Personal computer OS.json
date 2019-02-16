@@ -1,0 +1,13 @@
+[{
+	"title": "Personal computer OS",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://en.wikipedia.org/wiki/Personal_computer\">Multiprocessor OS Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Personal computer OS"
+	}]
+}]
