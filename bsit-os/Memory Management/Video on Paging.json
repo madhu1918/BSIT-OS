@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Paging",
+		"activityType":"video",
+		"videoURL":"/Paging.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Paging"
+		}
+		]
+	}
+]

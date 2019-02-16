@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Memory management",
+		"activityType":"video",
+		"videoURL":"/Operating Systems 2 - Memory Manager.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Memory management"
+		}
+		]
+	}
+]

@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Segmentation",
+		"activityType":"video",
+		"videoURL":"/Memory Protection.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Segmentation"
+		}
+		]
+	}
+]

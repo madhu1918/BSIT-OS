@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Virtual memory concept",
+		"activityType":"video",
+		"videoURL":"/Virtual Memory - Part 1.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Virtual memory concept"
+		}
+		]
+	}
+]
