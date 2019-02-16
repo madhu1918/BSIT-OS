@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on User account controls",
+		"activityType":"video",
+		"videoURL":"/User account controls.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on User account controls"
+		}
+		]
+	}
+]

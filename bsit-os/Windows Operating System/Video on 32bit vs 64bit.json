@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on 32bit vs 64bit",
+		"activityType":"video",
+		"videoURL":"/32bit vs 64bit.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on 32bit vs 64bit"
+		}
+		]
+	}
+]

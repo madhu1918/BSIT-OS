@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Installation issues that you may encounter",
+		"activityType":"video",
+		"videoURL":"/Installation issues that you may encounter.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Installation issues that you may encounter"
+		}
+		]
+	}
+]

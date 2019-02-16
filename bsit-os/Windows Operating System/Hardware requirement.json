@@ -1,0 +1,13 @@
+[{
+	"title": "Hardware requirement",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://www.microsoft.com/en-MY/windows/windows-10-specifications?SilentAuth=1&f=255&MSPPError=-2147217396\">Hardware requirement Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Hardware requirement"
+	}]
+}]

@@ -66,6 +66,12 @@
         },
         {
             "activities": [
+                "Windows operating system",
+                "Video on Features of Windows",
+                "Video on Versions of Windows OS",
+                "Video on Editions of Windows 10",
+                "Video on 32bit vs 64bit",
+                "Hardware requirement"
             ],
             "learningObjectives": [],
             "overview": [],
@@ -73,13 +79,13 @@
         },
         {
             "activities": [
-            ],
-            "learningObjectives": [],
-            "overview": [],
-            "title": "Windows Operating System"
-        },
-        {
-            "activities": [
+                "Video on Installation issues that you may encounter",
+                "Video on Process of installing windows",
+                "Video on Upgrade windows",
+                "Install the windows operating system",
+                "Video on Windows configuration",
+                "Video on Security",
+                "Video on User account controls"
             ],
             "learningObjectives": [],
             "overview": [],
@@ -87,6 +93,9 @@
         },
         {
             "activities": [
+                "Video on Networking controls for Windows operating system",
+                "Internet setting",
+                "Video on Windows command line"
             ],
             "learningObjectives": [],
             "overview": [],

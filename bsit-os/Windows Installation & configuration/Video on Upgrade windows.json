@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Upgrade windows",
+		"activityType":"video",
+		"videoURL":"/Upgrade windows.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Upgrade windows"
+		}
+		]
+	}
+]

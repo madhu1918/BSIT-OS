@@ -1,0 +1,13 @@
+[{
+	"title": "Windows operating system",
+	"activityType": "quiz",
+	"quizDescription": [
+		{
+			"text": "<a href=\"https://docs.microsoft.com/en-us/windows/whats-new/whats-new-windows-10-version-1809\">Windows operating system Link</a> "
+		}
+	],
+	"questions": [{
+		"questionType": "summarize",
+		"questionText": "Summarize the Windows operating system"
+	}]
+}]

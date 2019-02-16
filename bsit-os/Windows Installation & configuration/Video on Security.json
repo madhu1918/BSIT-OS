@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Security",
+		"activityType":"video",
+		"videoURL":"/Security.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Security"
+		}
+		]
+	}
+]
